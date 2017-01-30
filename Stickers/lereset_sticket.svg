@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1600px"
+   height="1200px"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   inkscape:export-filename="/home/maria/Documents/reset/lereset_sticker_1.png"
+   inkscape:export-xdpi="110.86875"
+   inkscape:export-ydpi="110.86875"
+   sodipodi:docname="lereset_sticket.svg">
+  <defs
+     id="defs2987" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.3"
+     inkscape:cx="660.48167"
+     inkscape:cy="600"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="668"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <text
+       xml:space="preserve"
+       style="font-size:185.08790588px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Grotesk;-inkscape-font-specification:Grotesk Medium"
+       x="163.66992"
+       y="647.44684"
+       id="text4016"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4018"
+         x="163.66992"
+         y="647.44684"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fantasque Sans Mono;-inkscape-font-specification:Fantasque Sans Mono">./<tspan
+   style="fill:#ffed66"
+   id="tspan3756">le</tspan>reset<tspan
+   style="fill:#ffed66;fill-opacity:1"
+   id="tspan4828">.org</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Fira Mono Medium for Powerline;-inkscape-font-specification:Fira Mono Medium for Powerline Medium"
+       x="623.63873"
+       y="760.66663"
+       id="text3758"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3760"
+         x="623.63873"
+         y="760.66663"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fantasque Sans Mono;-inkscape-font-specification:Fantasque Sans Mono"><tspan
+   style="fill:#ffed66"
+   id="tspan3780">queer</tspan>hackerspace<tspan
+   style="fill:#ffed66"
+   id="tspan6382">paris</tspan></tspan></text>
+  </g>
+</svg>

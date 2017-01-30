@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg3026"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   inkscape:export-filename="/home/maria/Documents/reset/flyer.png"
+   inkscape:export-xdpi="80.561615"
+   inkscape:export-ydpi="80.561615"
+   sodipodi:docname="flyer.svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="545.15715"
+     inkscape:cy="312.46161"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="668"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3914" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:6.10598803;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3804"
+       width="669.11237"
+       height="540"
+       x="37.491058"
+       y="452.36218" />
+    <path
+       inkscape:transform-center-y="-11.961524"
+       inkscape:transform-center-x="39.282032"
+       d="M 1780,770 1461.4359,633.92305 1738.5641,426.07695 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.9744928"
+       sodipodi:arg1="0.92729522"
+       sodipodi:r2="100"
+       sodipodi:r1="200"
+       sodipodi:cy="610"
+       sodipodi:cx="1660"
+       sodipodi:sides="3"
+       id="path3179"
+       style="fill:none"
+       sodipodi:type="star"
+       transform="matrix(0.48458338,0,0,0.48458338,-33.28836,-70.67598)" />
+    <g
+       id="layer2"
+       inkscape:label="Calque"
+       style="display:inline"
+       transform="matrix(0.48458338,0,0,0.48458338,-33.28836,-70.67598)" />
+    <g
+       id="g4049"
+       transform="translate(0,-40.763574)">
+      <rect
+         style="fill:#444444;fill-opacity:1"
+         id="rect2993"
+         width="29.075003"
+         height="262.32114"
+         x="34.553314"
+         y="132.20293" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffed66;fill-opacity:1"
+         id="path2995"
+         sodipodi:cx="321.66666"
+         sodipodi:cy="605"
+         sodipodi:rx="78.333336"
+         sodipodi:ry="78.333336"
+         d="m 390.98734,568.52049 c 20.14707,38.28476 5.44358,85.65312 -32.84118,105.80019 -38.21852,20.11222 -85.50502,5.49755 -105.71071,-32.67164 L 321.66666,605 z"
+         sodipodi:start="5.7987646"
+         sodipodi:end="8.93791"
+         transform="matrix(-0.42820024,-0.22686031,0.22686031,-0.42820024,119.84266,620.43485)" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#444444;fill-opacity:1"
+         id="path3041"
+         sodipodi:cx="262.5"
+         sodipodi:cy="802.5"
+         sodipodi:rx="22.5"
+         sodipodi:ry="22.5"
+         d="m 272.86263,822.47163 c -11.00699,5.71117 -24.5599,1.44002 -30.30356,-9.55005 L 262.5,802.5 z"
+         sodipodi:start="1.0921687"
+         sodipodi:end="2.6600114"
+         transform="matrix(1.5335607,0.79871596,-0.79871596,1.5335607,358.7109,-1143.845)" />
+      <rect
+         style="fill:#ffed66;fill-opacity:1"
+         id="rect2993-7"
+         width="29.075003"
+         height="261.67502"
+         x="209.00333"
+         y="132.84904" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#444444;fill-opacity:1"
+         id="path2995-5"
+         sodipodi:cx="321.66666"
+         sodipodi:cy="605"
+         sodipodi:rx="78.333336"
+         sodipodi:ry="78.333336"
+         d="m 390.98734,568.52049 c 20.14707,38.28476 5.44358,85.65312 -32.84118,105.80019 -38.21852,20.11222 -85.50502,5.49755 -105.71071,-32.67164 L 321.66666,605 z"
+         sodipodi:start="5.7987646"
+         sodipodi:end="8.93791"
+         transform="matrix(0.44554222,-0.88538699,0.87704087,0.4497821,-426.1558,223.3138)" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#444444;fill-opacity:1"
+         id="path2995-56"
+         sodipodi:cx="321.66666"
+         sodipodi:cy="605"
+         sodipodi:rx="78.333336"
+         sodipodi:ry="78.333336"
+         d="m 390.98734,568.52049 c 20.14707,38.28476 5.44358,85.65312 -32.84118,105.80019 -38.21852,20.11222 -85.50502,5.49755 -105.71071,-32.67164 L 321.66666,605 z"
+         sodipodi:start="5.7987646"
+         sodipodi:end="8.93791"
+         transform="matrix(-0.42820024,-0.22686031,0.22686031,-0.42820024,355.35019,620.43485)" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffed66;fill-opacity:1"
+         id="path3041-2"
+         sodipodi:cx="262.5"
+         sodipodi:cy="802.5"
+         sodipodi:rx="22.5"
+         sodipodi:ry="22.5"
+         d="m 272.86263,822.47163 c -11.00699,5.71117 -24.5599,1.44002 -30.30356,-9.55005 L 262.5,802.5 z"
+         sodipodi:start="1.0921687"
+         sodipodi:end="2.6600114"
+         transform="matrix(1.5335607,0.79871596,-0.79871596,1.5335607,594.21843,-1145.3352)" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#444444;fill-opacity:1"
+         id="path2995-9"
+         sodipodi:cx="321.66666"
+         sodipodi:cy="605"
+         sodipodi:rx="78.333336"
+         sodipodi:ry="78.333336"
+         d="m 390.98734,568.52049 c 20.14707,38.28476 5.44358,85.65312 -32.84118,105.80019 -38.21852,20.11222 -85.50502,5.49755 -105.71071,-32.67164 L 321.66666,605 z"
+         sodipodi:start="5.7987646"
+         sodipodi:end="8.93791"
+         transform="matrix(-0.42820024,-0.22686031,0.22686031,-0.42820024,549.38802,620.43485)" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffed66;fill-opacity:1"
+         id="path3041-1"
+         sodipodi:cx="262.5"
+         sodipodi:cy="802.5"
+         sodipodi:rx="22.5"
+         sodipodi:ry="22.5"
+         d="m 272.86263,822.47163 c -11.00699,5.71117 -24.5599,1.44002 -30.30356,-9.55005 L 262.5,802.5 z"
+         sodipodi:start="1.0921687"
+         sodipodi:end="2.6600114"
+         transform="matrix(1.5335607,0.79871596,-0.79871596,1.5335607,788.25628,-1143.845)" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffed66;fill-opacity:1"
+         id="path2995-56-2"
+         sodipodi:cx="321.66666"
+         sodipodi:cy="605"
+         sodipodi:rx="78.333336"
+         sodipodi:ry="78.333336"
+         d="m 390.98734,568.52049 c 20.14707,38.28476 5.44358,85.65312 -32.84118,105.80019 -38.21852,20.11222 -85.50502,5.49755 -105.71071,-32.67164 L 321.66666,605 z"
+         sodipodi:start="5.7987646"
+         sodipodi:end="8.93791"
+         transform="matrix(-0.42820024,-0.22686031,0.22686031,-0.42820024,455.76118,620.43485)" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#444444;fill-opacity:1"
+         id="path2995-56-7"
+         sodipodi:cx="321.66666"
+         sodipodi:cy="605"
+         sodipodi:rx="78.333336"
+         sodipodi:ry="78.333336"
+         d="m 390.98734,568.52049 c 20.14707,38.28476 5.44358,85.65312 -32.84118,105.80019 -38.21852,20.11222 -85.50502,5.49755 -105.71071,-32.67164 L 321.66666,605 z"
+         sodipodi:start="5.7987646"
+         sodipodi:end="8.93791"
+         transform="matrix(0.42820024,0.22686031,-0.22686031,0.42820024,441.1161,-35.521476)" />
+      <path
+         id="path3254"
+         inkscape:label="Triangle"
+         style="fill:#ffed66;fill-opacity:1"
+         d="m 661.57145,225.21156 -63.15498,63.20143 63.18774,-0.0137 -0.0325,-63.18778 z"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#444444;fill-opacity:1"
+         id="path2995-56-7-3"
+         sodipodi:cx="321.66666"
+         sodipodi:cy="605"
+         sodipodi:rx="78.333336"
+         sodipodi:ry="78.333336"
+         d="m 390.98734,568.52049 c 20.14707,38.28476 5.44358,85.65312 -32.84118,105.80019 -38.21852,20.11222 -85.50502,5.49755 -105.71071,-32.67164 L 321.66666,605 z"
+         sodipodi:start="5.7987646"
+         sodipodi:end="8.93791"
+         transform="matrix(0.37171471,0.1969343,-0.1969343,0.37171471,665.68983,55.891122)" />
+      <rect
+         style="fill:#444444;fill-opacity:1"
+         id="rect2993-7-2"
+         width="29.075003"
+         height="48.45834"
+         x="633.16107"
+         y="296.5004" />
+      <path
+         id="path3254-1"
+         inkscape:label="Triangle"
+         style="fill:#444444;fill-opacity:1"
+         d="m 343.64834,393.9137 -96.03229,-98.9035 0.55674,99.51385 95.47557,-0.6099 z"
+         inkscape:connector-curvature="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3910"
+         y="392.71576"
+         x="376.4346"
+         style="font-size:43.53061295px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FloridaProject;-inkscape-font-specification:FloridaProject"
+         xml:space="preserve"><tspan
+           style="font-size:43.53061295px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:FantasqueSans;-inkscape-font-specification:FantasqueSans Italic"
+           y="392.71576"
+           x="376.4346"
+           id="tspan3912"
+           sodipodi:role="line">hackerspace</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:55.682724px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FloridaProject;-inkscape-font-specification:FloridaProject"
+       x="103.97746"
+       y="50.36216"
+       id="text3916"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3918"
+         x="103.97746"
+         y="50.36216"
+         style="font-size:49.49575424px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Fantasque Sans Mono;-inkscape-font-specification:Fantasque Sans Mono Italic">Programme de novembre</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FantasqueSans;-inkscape-font-specification:FantasqueSans"
+       x="59.719116"
+       y="482.77679"
+       id="text3920"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="59.719116"
+         y="482.77679"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Fantasque Sans Mono;-inkscape-font-specification:Fantasque Sans Mono Bold"
+         id="tspan3202">Dimanche 6 novembre</tspan><tspan
+         sodipodi:role="line"
+         x="59.719116"
+         y="512.95575"
+         style="font-size:24px"
+         id="tspan3043">11h — Journée clef : Passe partout avec une canette, PGP, </tspan><tspan
+         sodipodi:role="line"
+         x="59.719116"
+         y="543.48724"
+         style="font-size:24px"
+         id="tspan3039">Initiation au lockpicking : comment ça marche une serrure ? </tspan><tspan
+         sodipodi:role="line"
+         x="59.719116"
+         y="573.48724"
+         style="font-size:24px"
+         id="tspan3084">Amenez vos cadenas !   </tspan><tspan
+         sodipodi:role="line"
+         x="59.719116"
+         y="603.48724"
+         style="font-size:24px"
+         id="tspan3930" /><tspan
+         sodipodi:role="line"
+         x="59.719116"
+         y="635.13373"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Fantasque Sans Mono;-inkscape-font-specification:Fantasque Sans Mono Bold"
+         id="tspan3932">Dimanche 13 novembre</tspan><tspan
+         sodipodi:role="line"
+         x="59.719116"
+         y="665.31274"
+         style="font-size:24px"
+         id="tspan3206">14h — Projection du documentaire « <tspan
+   style="font-style:italic;-inkscape-font-specification:FantasqueSans Italic"
+   id="tspan3057">Citizen Four » </tspan>(2015) </tspan><tspan
+         sodipodi:role="line"
+         x="59.719116"
+         y="695.84418"
+         style="font-size:24px"
+         id="tspan3061">suivie d'une discussion</tspan><tspan
+         sodipodi:role="line"
+         x="59.719116"
+         y="725.84418"
+         style="font-size:24px"
+         id="tspan3938" /><tspan
+         sodipodi:role="line"
+         x="59.719116"
+         y="757.49072"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Fantasque Sans Mono;-inkscape-font-specification:Fantasque Sans Mono Bold"
+         id="tspan3940">Dimanche 20 novembre</tspan><tspan
+         sodipodi:role="line"
+         x="59.719116"
+         y="787.66968"
+         style="font-size:24px"
+         id="tspan3068">Toute la journée — Atelier self care : découvrir et mettre</tspan><tspan
+         sodipodi:role="line"
+         x="59.719116"
+         y="818.20117"
+         style="font-size:24px"
+         id="tspan3074">en commun nos pratiques de respiration, de détente, de soin.</tspan><tspan
+         sodipodi:role="line"
+         x="59.719116"
+         y="848.20117"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Fantasque Sans Mono;-inkscape-font-specification:Fantasque Sans Mono Bold"
+         id="tspan3946" /><tspan
+         sodipodi:role="line"
+         x="59.719116"
+         y="879.84766"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Fantasque Sans Mono;-inkscape-font-specification:Fantasque Sans Mono Bold"
+         id="tspan3076">Dimanche 27 novembre</tspan><tspan
+         sodipodi:role="line"
+         x="59.719116"
+         y="910.02661"
+         style="font-size:24px"
+         id="tspan3950">14h — Atelier Queer Games &amp; toute la journée : </tspan><tspan
+         sodipodi:role="line"
+         x="59.719116"
+         y="940.55811"
+         style="font-size:24px"
+         id="tspan3954">« Cryptobar », apprendre à chiffrer ses mails, son PC, </tspan><tspan
+         sodipodi:role="line"
+         x="59.719116"
+         y="970.55811"
+         style="font-size:24px"
+         id="tspan3956">sa clef USB...</tspan><tspan
+         sodipodi:role="line"
+         x="59.719116"
+         y="1000.5581"
+         style="font-size:24px"
+         id="tspan3952" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FantasqueSans;-inkscape-font-specification:FantasqueSans"
+       x="371.40857"
+       y="395.78156"
+       id="text3978"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="376.07263"
+         y="395.78156"
+         id="tspan3982"
+         style="font-size:24px;text-align:center;text-anchor:middle">La Mutinerie — 173-175 rue Saint-Martin 75003 Paris </tspan><tspan
+         sodipodi:role="line"
+         x="376.07263"
+         y="428.13852"
+         style="font-size:24px;text-align:center;text-anchor:middle"
+         id="tspan3031">Tous les dimanches — 11h à 17h </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FantasqueSans;-inkscape-font-specification:FantasqueSans"
+       x="372.16003"
+       y="1014.9662"
+       id="text3986"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3988"
+         x="372.16003"
+         y="1014.9662"
+         style="font-size:22px;text-align:center;text-anchor:middle">contact@lereset.org — lereset.org</tspan><tspan
+         sodipodi:role="line"
+         x="372.16003"
+         y="1042.9534"
+         style="font-size:22px;text-align:center;text-anchor:middle"
+         id="tspan3994">ne pas jeter sur la voie publique</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FantasqueSans;-inkscape-font-specification:FantasqueSans"
+       x="-50.507626"
+       y="99.78833"
+       id="text3990"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3992" /></text>
+  </g>
+</svg>
